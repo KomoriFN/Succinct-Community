@@ -74,6 +74,13 @@ import user70 from '../assets/avatars/UmaRoy.jpg';
 import user71 from '../assets/avatars/godblessme.jpg';
 import user72 from '../assets/avatars/Mugiwara.jpg';
 import user73 from '../assets/avatars/TOLEX.jpg';
+import user74 from '../assets/avatars/Juan.jpg';
+import user75 from '../assets/avatars/pusel.jpg';
+import user76 from '../assets/avatars/COCOWAVES.jpg';
+import user77 from '../assets/avatars/Mikeyboomin.jpg';
+import user78 from '../assets/avatars/0xAgia.jpg';
+import user79 from '../assets/avatars/wtf4uk.jpg';
+import user80 from '../assets/avatars/Weeklang.jpg';
 // ... добавь остальные
 
 export const avatars = [
@@ -514,6 +521,48 @@ export const avatars = [
     name: "TOLEX", 
     img: user73,
     twitterUrl: "https://x.com/oyetoludan01"
+  },
+    { 
+    id: 74, 
+    name: "Juan", 
+    img: user74,
+    twitterUrl: "https://x.com/0xJuann"
+  },
+    { 
+    id: 75, 
+    name: "pusel", 
+    img: user75,
+    twitterUrl: "https://x.com/puselol"
+  },
+    { 
+    id: 76, 
+    name: "COCOWAVES", 
+    img: user76,
+    twitterUrl: "https://x.com/COOCOOWAVESS"
+  },
+     { 
+    id: 77, 
+    name: "Mikeyboomin", 
+    img: user77,
+    twitterUrl: "https://x.com/0xboomin"
+  },
+    { 
+    id: 78, 
+    name: "0xAgia", 
+    img: user78,
+    twitterUrl: "https://x.com/0xBojeng"
+  },
+    { 
+    id: 79, 
+    name: "wtf4uk", 
+    img: user79,
+    twitterUrl: "https://x.com/wtf4uk"
+  },
+    { 
+    id: 80, 
+    name: "Weeklang", 
+    img: user80,
+    twitterUrl: "https://x.com/Yurii_week"
   },
   // ... добавь остальные
 ];
