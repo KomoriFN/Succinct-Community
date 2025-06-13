@@ -71,6 +71,9 @@ import user67 from '../assets/avatars/Zksybil.jpg';
 import user68 from '../assets/avatars/Yavascan.jpg';
 import user69 from '../assets/avatars/zkDan.jpg';
 import user70 from '../assets/avatars/UmaRoy.jpg';
+import user71 from '../assets/avatars/godblessme.jpg';
+import user72 from '../assets/avatars/Mugiwara.jpg';
+import user73 from '../assets/avatars/TOLEX.jpg';
 // ... добавь остальные
 
 export const avatars = [
@@ -493,6 +496,24 @@ export const avatars = [
     name: "Uma Roy", 
     img: user70,
     twitterUrl: "https://x.com/pumatheuma"
+  },
+   { 
+    id: 71, 
+    name: "godblessme", 
+    img: user71,
+    twitterUrl: "https://x.com/godblessme_real"
+  },
+  { 
+    id: 72, 
+    name: "Mugiwara", 
+    img: user72,
+    twitterUrl: "https://x.com/vs_ccb"
+  },
+   { 
+    id: 73, 
+    name: "TOLEX", 
+    img: user73,
+    twitterUrl: "https://x.com/oyetoludan01"
   },
   // ... добавь остальные
 ];
